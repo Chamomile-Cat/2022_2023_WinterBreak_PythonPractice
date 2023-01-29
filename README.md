@@ -1,0 +1,2 @@
+# 2023-Winter-Python-Quiz
+These are codes I wrote while studying python during winter break 2023/1~2023/2. I knew only the most basic concepts of python (ex) for loop) before starting, so the codes may seem dirty and inefficient. As I learned more and more python, you will see how I go back and solve the same questions in more efficient ways, or start to solve new questions I could not before. The purpose of studying python is to get to a point where I can run basic statistical analysis on data with python.  
